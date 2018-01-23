@@ -1,4 +1,4 @@
-# Java_SampleCode24
+# JavaSampleCode24
 コンストラクタ
 
 #### 処理
