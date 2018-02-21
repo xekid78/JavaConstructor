@@ -21,9 +21,10 @@ public class Sample24 {
 
 class Player {
 
-	// コンストラクタ
-	private String myName;		// メンバ変数
+	// メンバ変数
+	private String myName;		
 
+	// コンストラクタ
 	public Player(String name) {
 		myName = name;
 	}
