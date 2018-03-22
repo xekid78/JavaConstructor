@@ -6,7 +6,7 @@
 
 ## コード
 ```
-public class Sample24 {
+public class Constructor {
 
 	public static void main(String[] args) {
 		Player p1 = new Player("ケンシロウ");
@@ -22,7 +22,7 @@ public class Sample24 {
 class Player {
 
 	// メンバ変数
-	private String myName;		
+	private String myName;
 
 	// コンストラクタ
 	public Player(String name) {
@@ -48,5 +48,6 @@ class Player {
 ## 開発環境
 | 開発ツール |  |
 |:-|:-|
+| OS | Windows10 |
 | 統合開発環境(IDE) | Eclipse 4.7.0 Oxygen |
 | 開発言語 | Java8 |
